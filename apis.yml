@@ -1,7 +1,12 @@
 aid: american-axle-and-manufacturing
-url: https://raw.githubusercontent.com/api-evangelist/american-axle-and-manufacturing/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/american-axle-and-manufacturing/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.american-axle-and-manufacturing.com
+description: >-
+  American Axle & Manufacturing is a global tier 1 automotive supplier of driveline,
+  drivetrain, metal-formed, and casting products for light vehicles, commercial vehicles,
+  and industrial markets.
