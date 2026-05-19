@@ -64,6 +64,8 @@ apis:
         url: https://www.demandaam.com/
 
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/americanaxle
   - type: Website
     url: https://www.aam.com/
   - type: Portal
