@@ -9,7 +9,19 @@ description: >-
   Portal for supplier communication, EDI integration for forecasts and releases,
   and the Demand AAM aftermarket parts portal.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/american-axle-and-manufacturing.png
 tags:
   - Automotive
   - Manufacturing
@@ -21,31 +33,9 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/american-axle-and-manufacturing/refs/heads/main/apis.yml
 created: '2026-03-23'
-modified: '2026-04-19'
+modified: '2026-07-25'
 specificationVersion: '0.19'
 apis:
-  - aid: american-axle-and-manufacturing:isupplier-portal
-    name: AAM iSupplier Portal
-    description: >-
-      The AAM iSupplier Portal provides suppliers access to DELFORS forecasts,
-      DELJIT releases, standard purchase orders, payment status, bulletins,
-      specifications, manuals, PPAP documents, and ASN (Advanced Shipping
-      Notification) transmission. EDI integration is required for all AAM
-      suppliers, with EDI or portal-based ASN submission mandatory at time
-      of shipment.
-    humanURL: https://www.aam.com/suppliers/doing-business-with-aam
-    baseURL: https://www.aam.com
-    tags:
-      - Supply Chain
-      - EDI
-      - Supplier Portal
-      - Automotive
-    properties:
-      - type: Documentation
-        url: https://www.aam.com/suppliers/doing-business-with-aam
-      - type: Portal
-        url: https://www.aam.com/suppliers/doing-business-with-aam/isupplier-faq
-
   - aid: american-axle-and-manufacturing:demand-aam
     name: Demand AAM Aftermarket Parts Portal
     description: >-
@@ -128,6 +118,8 @@ common:
         description: >-
           Integration of GKN Powder Metallurgy's sintered components business
           following the Dowlais Group acquisition.
+  - type: Suppliers
+    url: https://www.aam.com/suppliers/doing-business-with-aam
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

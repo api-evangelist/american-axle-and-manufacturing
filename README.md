@@ -17,11 +17,6 @@ American Axle & Manufacturing (AAM), now operating as Dauch Corporation followin
 
 ## APIs
 
-### AAM iSupplier Portal
-
-The AAM iSupplier Portal provides suppliers access to DELFORS forecasts, DELJIT releases, standard purchase orders, payment status, bulletins, specifications, PPAP documents, and ASN transmission.
-
-**Human URL:** [https://www.aam.com/suppliers/doing-business-with-aam](https://www.aam.com/suppliers/doing-business-with-aam)
 
 #### Tags
 
