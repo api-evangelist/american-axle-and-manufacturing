@@ -1,7 +1,9 @@
 ---
 title: AAM Announces Combination with Dowlais for $1.44 ...
 url: https://www.aam.com/media/story/aam-announces-combination-with-dowlais
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"American Axle & Manufacturing" press release artificial intelligence'
 position: 4
 source: serpapi-google

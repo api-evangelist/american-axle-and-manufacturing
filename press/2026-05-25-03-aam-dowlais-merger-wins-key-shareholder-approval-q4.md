@@ -1,7 +1,9 @@
 ---
 title: AAM-Dowlais Merger Wins Key Shareholder Approval, Q4 ...
 url: https://www.stocktitan.net/news/AXL/recommended-cash-and-share-combination-of-dowlais-group-plc-with-ulnwjn0mfaap.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"American Axle & Manufacturing" press release artificial intelligence'
 position: 3
 source: serpapi-google
