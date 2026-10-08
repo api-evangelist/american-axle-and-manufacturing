@@ -66,6 +66,12 @@ apis:
         url: https://www.demandaam.com/
 
 common:
+  - type: Plans
+    url: plans/american-axle-and-manufacturing-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/american-axle-and-manufacturing-rate-limits.yml
+  - type: FinOps
+    url: finops/american-axle-and-manufacturing-finops.yml
   - url: https://www.aam.com/blog/
     type: Blog
   - type: DomainSecurity
