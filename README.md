@@ -1,4 +1,4 @@
-# American Axle and Manufacturing (american-axle-and-manufacturing)
+# American Axle and Manufacturing
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,81 +64,102 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-American Axle & Manufacturing (AAM), now operating as Dauch Corporation following the February 2026 acquisition of Dowlais Group (GKN Automotive and GKN Powder Metallurgy), is a global Tier 1 automotive supplier designing, engineering, and manufacturing driveline and metal forming technologies for electric, hybrid, and internal combustion vehicles.
+American Axle & Manufacturing (AAM), now operating as Dauch Corporation following the February 2026 acquisition of Dowlais Group (GKN Automotive and GKN Powder Metallurgy), is a global Tier 1 automotive supplier designing, engineering, and manufacturing driveline and metal forming technologies for electric, hybrid, and internal combustion vehicles. AAM operates an iSupplier Portal for supplier communication, EDI integration for forecasts and releases, and the Demand AAM aftermarket parts portal.
 
-**URL:** [https://www.aam.com/](https://www.aam.com/)
+**Areas:** Automotive · Manufacturing · Driveline · Automotive Supplier · EDI · Supply Chain · Fortune 1000
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## American Axle and Manufacturing on APIs.io
 
-## Tags
+Everything profiled for American Axle and Manufacturing is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/american-axle-and-manufacturing/](https://apis.io/providers/american-axle-and-manufacturing/)** — or go straight to one of the APIs or properties below.
 
- - Automotive, Manufacturing, Driveline, Automotive Supplier, EDI, Supply Chain
+### APIs (1)
 
-## Timestamps
+- [Demand AAM Aftermarket Parts Portal](https://apis.io/apis/american-axle-and-manufacturing/demand-aam/) — Demand AAM provides access to genuine AAM OE replacement driveline parts for the aftermarket. The portal serves automotive parts distributors and repair…
 
-- **Created:** 2026-03-23
-- **Modified:** 2026-04-19
+### Published properties
 
-## APIs
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### Security (1)
 
-#### Tags
+Authentication, trust centre, and vulnerability disclosure.
 
- - Supply Chain, EDI, Supplier Portal, Automotive
+- [American Axle And Manufacturing Domain Security](https://apis.io/security/american-axle-and-manufacturing/american-axle-and-manufacturing-domain-security/)
 
-#### Properties
+#### Plans and pricing (1)
 
-- [Documentation](https://www.aam.com/suppliers/doing-business-with-aam)
-- [Portal](https://www.aam.com/suppliers/doing-business-with-aam/isupplier-faq)
+Published plans, tiers and prices.
 
-### Demand AAM Aftermarket Parts Portal
+- [American Axle And Manufacturing Plans Pricing](https://apis.io/plans/american-axle-and-manufacturing/american-axle-and-manufacturing-plans-pricing/)
 
-Demand AAM provides access to genuine AAM OE replacement driveline parts for the aftermarket.
+#### Rate limits (1)
 
-**Human URL:** [https://www.demandaam.com/](https://www.demandaam.com/)
+Published request limits.
 
-#### Tags
+- [American Axle And Manufacturing Rate Limits](https://apis.io/rate-limits/american-axle-and-manufacturing/american-axle-and-manufacturing-rate-limits/)
 
- - Aftermarket, Parts, Automotive
+#### FinOps (1)
 
-#### Properties
+What the API costs to run, by operation.
 
-- [Documentation](https://www.demandaam.com/)
-- [Portal](https://www.demandaam.com/)
+- [American Axle And Manufacturing Finops](https://apis.io/finops/american-axle-and-manufacturing/american-axle-and-manufacturing-finops/)
 
-## Common Properties
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.aam.com/)
-- [Portal](https://www.aam.com/suppliers)
+- [Blog](https://www.aam.com/blog/)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| EDI Integration | Electronic Data Interchange required for all AAM suppliers, supporting DELFORS forecasts, DELJIT releases, and ASN transmission. |
-| iSupplier Portal | Web-based portal providing access to forecasts, purchase orders, payment status, bulletins, PPAP documents, and ASN tools. |
-| Advanced Shipping Notification | Mandatory ASN submission via EDI or portal at time of shipment for in-transit material visibility. |
-| Electric Vehicle Driveline Technology | Next-generation electric drive units and driveline components for BEV and hybrid platforms. |
-| GKN Automotive Integration | Following the February 2026 acquisition, AAM integrates GKN Automotive's ePowertrain and driveline portfolio. |
+**Kin Score 9.4** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 5.3 |
 
-| Name | Description |
-|------|-------------|
-| Supplier Collaboration | Tier 2 and Tier 3 suppliers access forecasts, purchase orders, and payment status. |
-| Shipment Management | Suppliers submit Advanced Shipping Notifications via EDI or portal. |
-| Aftermarket Parts Distribution | Parts distributors source genuine OE driveline replacement parts through Demand AAM. |
+**Agent readiness 0.6** — human-only
 
-## Integrations
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| EDI Systems | ANSI X12 and EDIFACT EDI for DELFORS, DELJIT, and ASN transactions. |
-| GKN Automotive | Integration of GKN Automotive's ePowertrain technology following Dowlais Group acquisition. |
-| GKN Powder Metallurgy | Integration of GKN Powder Metallurgy's sintered components business. |
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
-## Maintainers
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/american-axle-and-manufacturing/](https://apis.io/providers/american-axle-and-manufacturing/).
 
-**FN:** Kin Lane
+## How this profile is made
 
-**Email:** kin@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for American Axle and Manufacturing: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/american-axle-and-manufacturing/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
